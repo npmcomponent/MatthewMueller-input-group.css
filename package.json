@@ -1,0 +1,11 @@
+{
+  "name": "matthewmueller-input-group.css",
+  "description": "custom radio and checkbox inputs",
+  "version": "0.0.1",
+  "keywords": [],
+  "styles": [
+    "input-group.css"
+  ],
+  "dependencies": {},
+  "license": "MIT"
+}
